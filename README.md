@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @khushisingh96
-- 👀 I’m interested in Data analysis and Data visulaization
-- 🌱 I’m currently learning: Deep learning and Computer vision
+- 👋 Hi, I’m @singhkhushi2610
+- 👀 I’m a Software Engineer skilled in backend development.
+- 🌱 I’m currently diving deeper into: Microservices and System Design.
 - 📫 How to reach me:
  📧 singhkhushik2610@gmail.com
  📥 https://www.linkedin.com/in/khushi-kumari-singh-09a746188/
